@@ -31,5 +31,3 @@
   </div>
 </body>
 </html>
-![1000001259](https://github.com/user-attachments/assets/e11d74f8-24d6-456f-b073-effea663224c)
-![1000001000](https://github.com/user-attachments/assets/96ca737a-9e19-44f0-b107-439a89a67879)
